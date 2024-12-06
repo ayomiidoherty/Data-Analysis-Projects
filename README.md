@@ -1,5 +1,5 @@
 # SALES ANALYSIS 
-PROJECT OVERVIEW 
+# PROJECT OVERVIEW 
 
 REC Corp needed the following questions answered: 
 1) Is there any trend in the sales of all four products during certain months?
@@ -11,7 +11,7 @@ REC Corp needed the following questions answered:
 
 
 
-OBJECTIVE 
+# OBJECTIVE 
 
 
 This project aims to evaluate the sales performance and revenue contributions of four products (P1, P2, P3, and P4) over multiple years, assess the potential impact of discontinuing a product, estimate sales performance for December 31st when their retail outlets are closed and forecast sales and revenue for the following year of 2023. 
@@ -19,7 +19,7 @@ This project aims to evaluate the sales performance and revenue contributions of
 
 
 
-EXECUTIVE SUMMARY 
+# EXECUTIVE SUMMARY 
 
 1. Sales Trends: Sales for all four products exhibit a consistent trend across months, with P1 consistently leading in sales across all months.
 2. Top-Performing Product: P1 has consistently outperformed the other products, generating the highest total sales across all years.
@@ -28,7 +28,7 @@ EXECUTIVE SUMMARY
 
 
 
-Sales Trends
+# Sales Trends
 
 The bar chart for monthly sales shows that P1 consistently outperforms the other products in terms of units sold every month. This trend suggests that P1 holds a strong market demand and customer loyalty. 
 
@@ -42,14 +42,21 @@ Sales across all four products (P1, P2, P3, P4) show significant increases in Ja
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/e010dc1f-fc07-431d-9273-71eee13c462b)
 
-Sales Trends in Different Months
 
-Highest Performing Months
+
+![Screenshot (20)](https://github.com/user-attachments/assets/1e0043da-ac0c-4eab-9b70-384a6e02e023)
+
+
+
+
+# Sales Trends in Different Months
+
+# Highest Performing Months
 
 July stands out as the top-performing month for P1 and P4, with both products achieving the highest sales during this period.
 On the other hand, January proved to be the strongest month for P2 and P3, with these products showing the highest sales in this early month of the year.
 
-Lowest Performing Month
+# Lowest Performing Month
 
 February consistently emerged as the lowest performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
 
@@ -57,8 +64,8 @@ February consistently emerged as the lowest performing month across all four pro
 
 
 
-![Screenshot (22)](https://github.com/user-attachments/assets/0fb7f1d7-af43-4b91-9a84-05b057f5c770)
 
 
+![Screenshot (22)](https://github.com/user-attachments/assets/f584942d-25d9-41ca-ba46-965cded45618)
 
 
