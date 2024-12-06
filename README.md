@@ -29,9 +29,11 @@ EXECUTIVE SUMMARY
 
 
 Sales Trends
+
 The bar chart for monthly sales shows that P1 consistently outperforms the other products in terms of units sold every month. This trend suggests that P1 holds a strong market demand and customer loyalty. 
 
-Seasonal Peaks in January and December:
+Seasonal Peaks in January and December
+
 Sales across all four products (P1, P2, P3, P4) show significant increases in January and December. This indicates a potential seasonal trend, driven by holidays, promotions, or increased customer demand during these months.
 
 
@@ -39,6 +41,24 @@ Sales across all four products (P1, P2, P3, P4) show significant increases in Ja
 
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/e010dc1f-fc07-431d-9273-71eee13c462b)
+
+Sales Trends in Different Months
+
+Highest Performing Months
+
+July stands out as the top-performing month for P1 and P4, with both products achieving the highest sales during this period.
+On the other hand, January proved to be the strongest month for P2 and P3, with these products showing the highest sales in this early month of the year.
+
+Lowest Performing Month
+
+February consistently emerged as the lowest performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
+
+
+
+
+
+![Screenshot (22)](https://github.com/user-attachments/assets/0fb7f1d7-af43-4b91-9a84-05b057f5c770)
+
 
 
 
