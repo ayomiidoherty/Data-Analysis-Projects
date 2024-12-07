@@ -79,12 +79,12 @@ On the other hand, **January** proved to be the strongest month for P2 and P3, w
 
 # December 31st Sales Estimate
 
-## Estimated Units Sold
+## Estimated Sales
 
-- **P1**: 3,847 units (highest contribution)
-* **P2**: 2,012 units
-+ **P3**: 3,074 units
-- **P4**: 1,125 units (lowest contribution)
+- **P1**: 3,847 **(highest contribution)**
+* **P2**: 2,012 
++ **P3**: 3,074 
+- **P4**: 1,125 **(lowest contribution)**
 
 **P1** and **P3** dominate the estimated sales for December 31st respectively. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
 Retail centers should consider opening on December 31st, as the estimated sales figures indicate significant revenue potential from **P1** and **P3**. 
