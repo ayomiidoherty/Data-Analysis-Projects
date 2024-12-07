@@ -58,7 +58,7 @@ On the other hand, **January** proved to be the strongest month for P2 and P3, w
 
 # Lowest Performing Month
 
-**February** consistently emerged as the lowest performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
+**February** consistently emerged as the lowest-performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
 
 
 
@@ -81,6 +81,50 @@ Retail centers should consider opening on December 31st, as the estimated sales 
 
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/97c3ee4e-911d-4feb-98cb-6f87de6fec20)
+
+
+
+
+# Impact of Product Discontinuation 
+
+# Revenue Contribution (%):
+**P1**: 25.31%
+**P2**: 26.16%
+**P3**: 33.02%
+**P4**: 15.51%
+
+# Sales Contribution (%):
+**P1**: 39.18%
+**P2**: 20.25%
+**P3**: 29.90%
+**P4**: 10.68%
+
+P1 Makes up  **(25.31%)** of revenue and **(39.18%)** of sales, making it the flagship product. Discontinuation would result in a critical revenue loss, destabilizing the company’s sales structure.
+P3 generates the highest revenue contribution **(33.02%)** and significant sales **(29.90%)**. Its discontinuation would severely reduce profitability.
+While P2 contributes **(26.16%)** to revenue, its sales volume is lower **(20.25%)**
+P4 contributes only **(15.51%)** of revenue and 10.68% of sales. Its discontinuation would have the least financial impact, allowing the company to reallocate resources to higher-performing products like P1 and P3. P4 should be considered for discontinuation as its contribution to both revenue and sales is significantly lower than the other products. By eliminating P4, the company can reduce costs associated with production, inventory, and marketing while focusing on its top-performing products.
+
+
+
+
+# Recommendations
+
+
+# 1.	Product Optimization:
+- Discontinue P4 due to its **low revenue and sales contribution**. This will enable the company to concentrate resources on high-performing products like P1 and P3.
++ Before discontinuation, customer feedback should be analyzed on P4 to ensure the company does not alienate a niche but loyal customer segment.
+# 2.	Revenue Maximization:
+- Conduct a pricing analysis for P1 to explore potential price adjustments. Increasing its unit price slightly could align its revenue contribution with its sales volume dominance, boosting profitability without significant loss in demand.
++ Focus on **marketing and promotions** for P3 to sustain its position as the highest revenue generator.
+# 3.	Sales Strategy for December 31st:
+- Open retail centers on December 31st to further maximize profitability. 
++ Consider a **clearance or discount strategy** for P4 to reduce inventory levels and generate incremental revenue before its potential discontinuation.
+# 4.	Future Exploration:
+- Evaluate the potential of introducing a new product to replace P4, leveraging lessons learned from its underperformance.
+
+
+
+
 
 
 
