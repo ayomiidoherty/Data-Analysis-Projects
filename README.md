@@ -33,7 +33,10 @@ This project aims to evaluate the sales performance and revenue contributions of
 
 
 
-# Sales Trends
+
+
+
+## Sales Trends
 
 The bar chart for monthly sales shows that P1 consistently outperforms the other products in terms of units sold every month. This trend suggests that P1 holds a strong market demand and customer loyalty. 
 
