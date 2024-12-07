@@ -32,7 +32,7 @@ This project aims to evaluate the sales performance and revenue contributions of
 
 The bar chart for monthly sales shows that P1 consistently outperforms the other products in terms of units sold every month. This trend suggests that P1 holds a strong market demand and customer loyalty. 
 
-Seasonal Peaks in January and December
+# Seasonal Peaks in January and December
 
 Sales across all four products (P1, P2, P3, P4) show significant increases in January and December. This indicates a potential seasonal trend, driven by holidays, promotions, or increased customer demand during these months.
 
@@ -53,12 +53,12 @@ Sales across all four products (P1, P2, P3, P4) show significant increases in Ja
 
 # Highest Performing Months
 
-July stands out as the top-performing month for P1 and P4, with both products achieving the highest sales during this period.
-On the other hand, January proved to be the strongest month for P2 and P3, with these products showing the highest sales in this early month of the year.
+**July** stands out as the top-performing month for P1 and P4, with both products achieving the highest sales during this period.
+On the other hand, **January** proved to be the strongest month for P2 and P3, with these products showing the highest sales in this early month of the year.
 
 # Lowest Performing Month
 
-February consistently emerged as the lowest performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
+**February** consistently emerged as the lowest performing month across all four products. This suggests that there might be a seasonal dip in demand during this period, possibly due to factors like post-holiday season reductions in purchasing behavior or other external variables influencing consumer purchasing decisions.
 
 
 
@@ -71,13 +71,13 @@ February consistently emerged as the lowest performing month across all four pro
 
 # Estimated Units Sold
 
-P1: 3,847 units (highest contribution)
-P2: 2,012 units
-P3: 3,074 units
-P4: 1,125 units (lowest contribution)
+- **P1**: 3,847 units (highest contribution)
+* **P2**: 2,012 units
++ **P3**: 3,074 units
+- **P4**: 1,125 units (lowest contribution)
 
-P1 and P3 dominate the estimated sales for December 31st respectively. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
-Retail centers should consider opening on December 31st, as the estimated sales figures indicate significant revenue potential from P1 and P3. However, P4’s low contribution suggests its profitability is limited, even during peak sales periods.
+**P1** and **P3** dominate the estimated sales for December 31st respectively. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
+Retail centers should consider opening on December 31st, as the estimated sales figures indicate significant revenue potential from **P1** and **P3**. 
 
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/97c3ee4e-911d-4feb-98cb-6f87de6fec20)
