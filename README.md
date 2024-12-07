@@ -21,10 +21,14 @@ This project aims to evaluate the sales performance and revenue contributions of
 
 # EXECUTIVE SUMMARY 
 
-1. Sales Trends: Sales for all four products exhibit a consistent trend across months, with P1 consistently leading in sales across all months.
-2. Top-Performing Product: P1 has consistently outperformed the other products, generating the highest total sales across all years.
-3. December 31st Estimate: Estimated sales for December 31st indicate P1 would generate the highest sales, followed by P3, P2, and P4.
-4. Product Discontinuation Impact: Discontinuing any one product would likely result in a substantial revenue loss, with P4 being the least impactful to drop due to its lower sales contribution.
+# 1. Sales Trends:
+   Sales for all four products exhibit a consistent trend across months, with P1 consistently leading in sales across all months.
+# 2. Top-Performing Product:
+   P1 has consistently outperformed the other products, generating the highest total sales across all years.
+# 3. December 31st Estimate:
+   Estimated sales for December 31st indicate P1 would generate the highest sales, followed by P3, P2, and P4.
+# 4. Product Discontinuation Impact:
+   Discontinuing any one product would likely result in a substantial revenue loss, with P4 being the least impactful to drop due to its lower sales contribution.
 
 
 
@@ -88,16 +92,16 @@ Retail centers should consider opening on December 31st, as the estimated sales 
 # Impact of Product Discontinuation 
 
 # Revenue Contribution (%):
-**P1**: 25.31%
-**P2**: 26.16%
-**P3**: 33.02%
-**P4**: 15.51%
+- **P1**: 25.31%
++ **P2**: 26.16%
+* **P3**: 33.02%
+* **P4**: 15.51%
 
 # Sales Contribution (%):
-**P1**: 39.18%
-**P2**: 20.25%
-**P3**: 29.90%
-**P4**: 10.68%
++ **P1**: 39.18%
+- **P2**: 20.25%
+* **P3**: 29.90%
++ **P4**: 10.68%
 
 P1 Makes up  **(25.31%)** of revenue and **(39.18%)** of sales, making it the flagship product. Discontinuation would result in a critical revenue loss, destabilizing the company’s sales structure.
 P3 generates the highest revenue contribution **(33.02%)** and significant sales **(29.90%)**. Its discontinuation would severely reduce profitability.
