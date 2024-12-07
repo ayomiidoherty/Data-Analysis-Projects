@@ -72,7 +72,9 @@ On the other hand, **January** proved to be the strongest month for P2 and P3, w
 
 
 
-![Screenshot (22)](https://github.com/user-attachments/assets/f584942d-25d9-41ca-ba46-965cded45618)
+![Screenshot (23)](https://github.com/user-attachments/assets/c2c819bb-f961-4353-9f89-26c831e9c611)
+
+
 
 
 # December 31st Sales Estimate
