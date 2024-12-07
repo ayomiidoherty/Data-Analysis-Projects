@@ -64,8 +64,23 @@ February consistently emerged as the lowest performing month across all four pro
 
 
 
-
-
 ![Screenshot (22)](https://github.com/user-attachments/assets/f584942d-25d9-41ca-ba46-965cded45618)
+
+
+# December 31st Sales Estimate
+
+# Estimated Units Sold
+
+P1: 3,847 units (highest contribution)
+P2: 2,012 units
+P3: 3,074 units
+P4: 1,125 units (lowest contribution)
+
+P1 and P3 dominate the estimated sales for December 31st respectively. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
+Retail centers should consider opening on December 31st, as the estimated sales figures indicate significant revenue potential from P1 and P3. However, P4’s low contribution suggests its profitability is limited, even during peak sales periods.
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/97c3ee4e-911d-4feb-98cb-6f87de6fec20)
+
 
 
