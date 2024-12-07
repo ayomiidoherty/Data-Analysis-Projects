@@ -86,7 +86,7 @@ On the other hand, **January** proved to be the strongest month for P2 and P3, w
 + **P3**: 3,074 
 - **P4**: 1,125 **(lowest contribution)**
 
-**P1** and **P3** dominate the estimated sales for December 31st respectively. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
+**P1** and **P3** dominate the estimated sales for December 31st. These products exhibit strong consumer demand and should remain focal points in inventory planning for peak periods.
 Retail centers should consider opening on December 31st, as the estimated sales figures indicate significant revenue potential from **P1** and **P3**. 
 
 
@@ -109,7 +109,7 @@ Retail centers should consider opening on December 31st, as the estimated sales 
 * **P3**: 29.90%
 + **P4**: 10.68%
 
-P1 Makes up  **(25.31%)** of revenue and **(39.18%)** of sales, making it the flagship product. Discontinuation would result in a critical revenue loss, destabilizing the company’s sales structure.
+P1 makes up  **(25.31%)** of revenue and **(39.18%)** of sales, making it the flagship product. Discontinuation would result in a critical revenue loss, destabilizing the company’s sales structure.
 P3 generates the highest revenue contribution **(33.02%)** and significant sales **(29.90%)**. Its discontinuation would severely reduce profitability.
 While P2 contributes **(26.16%)** to revenue, its sales volume is lower **(20.25%)**
 P4 contributes only **(15.51%)** of revenue and 10.68% of sales. Its discontinuation would have the least financial impact, allowing the company to reallocate resources to higher-performing products like P1 and P3. P4 should be considered for discontinuation as its contribution to both revenue and sales is significantly lower than the other products. By eliminating P4, the company can reduce costs associated with production, inventory, and marketing while focusing on its top-performing products.
