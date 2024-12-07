@@ -21,13 +21,13 @@ This project aims to evaluate the sales performance and revenue contributions of
 
 # EXECUTIVE SUMMARY 
 
-# 1. Sales Trends:
+# 1. Sales Trends
    Sales for all four products exhibit a consistent trend across months, with P1 consistently leading in sales across all months.
-# 2. Top-Performing Product:
+# 2. Top-Performing Product
    P1 has consistently outperformed the other products, generating the highest total sales across all years.
-# 3. December 31st Estimate:
+# 3. December 31st Estimate
    Estimated sales for December 31st indicate P1 would generate the highest sales, followed by P3, P2, and P4.
-# 4. Product Discontinuation Impact:
+# 4. Product Discontinuation Impact
    Discontinuing any one product would likely result in a substantial revenue loss, with P4 being the least impactful to drop due to its lower sales contribution.
 
 
@@ -114,16 +114,16 @@ P4 contributes only **(15.51%)** of revenue and 10.68% of sales. Its discontinua
 # Recommendations
 
 
-# 1.	Product Optimization:
+# 1.	Product Optimization
 - Discontinue P4 due to its **low revenue and sales contribution**. This will enable the company to concentrate resources on high-performing products like P1 and P3.
 + Before discontinuation, customer feedback should be analyzed on P4 to ensure the company does not alienate a niche but loyal customer segment.
-# 2.	Revenue Maximization:
+# 2.	Revenue Maximization
 - Conduct a pricing analysis for P1 to explore potential price adjustments. Increasing its unit price slightly could align its revenue contribution with its sales volume dominance, boosting profitability without significant loss in demand.
 + Focus on **marketing and promotions** for P3 to sustain its position as the highest revenue generator.
-# 3.	Sales Strategy for December 31st:
+# 3.	Sales Strategy for December 31st
 - Open retail centers on December 31st to further maximize profitability. 
 + Consider a **clearance or discount strategy** for P4 to reduce inventory levels and generate incremental revenue before its potential discontinuation.
-# 4.	Future Exploration:
+# 4.	Future Exploration
 - Evaluate the potential of introducing a new product to replace P4, leveraging lessons learned from its underperformance.
 
 
